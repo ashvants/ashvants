@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashvants
-- 👀 I’m interested in development/automation and CI/CD technologies
+- 👀 I’m interested in development/automation and CI/CD technologies, jenkins files, groovy scripting, powershell and bash.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on powershell projects / docker / python code
 - 📫 How to reach me
